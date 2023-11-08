@@ -157,7 +157,7 @@ Register number: 212221040021
 ```
 
 ## OUTPUT:
-
+![Screenshot (421)](https://github.com/selvasachein/cover/assets/103128410/a858b885-4275-4968-88de-a77f12ff61cb)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
